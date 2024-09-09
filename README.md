@@ -1,4 +1,6 @@
-Project 2 Get the country-specific covid case data from here. (Note pandas allows you to load a csv file from a URL. Make sure to use the "raw" link to the file on github.)
+Project 2 Get the country-specific covid case data from 
+https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+. (Note pandas allows you to load a csv file from a URL. Make sure to use the "raw" link to the file on github.)
 
 Pick four countries. Show the time series plot of new cases per day for the four countries from the day of the first nonzero case day. (Note we do not want to show cumulative cases by day.)
 Plot a smoothed version of the country specific data using a smoother such as a moving average, lowess or spline.
